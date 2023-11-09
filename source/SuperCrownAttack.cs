@@ -51,9 +51,7 @@ public static int CalcDamage(Character attacker, Character defender, double type
 
     damage = (int)((attacker.attackStrength - defender.defensePower) * typeBonus);
 
-
-
-    return damage;
+  return Math.Max(damage, 0);
 }
         public bool IsSpecialCombination(Character attacker, Character defender) {
 

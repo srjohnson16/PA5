@@ -4,7 +4,7 @@ namespace source
     {
 
         public void PreformAttack(Character attacker, Character defender) {
-           System.Console.WriteLine("Fireflower");
+         
            
            System.Console.WriteLine($"{attacker.name} attacks using Fire Flower!");
                PlayAttackSound();
@@ -38,9 +38,7 @@ public static int CalcDamage(Character attacker, Character defender, double type
 
     damage = (int)((attacker.attackStrength - defender.defensePower) * typeBonus);
 
-
-
-    return damage;
+    return Math.Max(damage, 0);
 }
 
       private void PlayAttackSound()

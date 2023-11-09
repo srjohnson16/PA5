@@ -46,7 +46,7 @@ public static int CalcDamage(Character attacker, Character defender, double type
 
 
 
-    return damage;
+     return Math.Max(damage, 0);
 }
         public bool IsSpecialCombination(Character attacker, Character defender) {
 

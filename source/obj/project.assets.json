@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\strategypatternGamePA5\\source\\source.csproj",
+      "projectUniqueName": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\PA5\\source\\source.csproj",
       "projectName": "source",
-      "projectPath": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\strategypatternGamePA5\\source\\source.csproj",
+      "projectPath": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\PA5\\source\\source.csproj",
       "packagesPath": "C:\\Users\\shali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\strategypatternGamePA5\\source\\obj\\",
+      "outputPath": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\PA5\\source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shali\\AppData\\Roaming\\NuGet\\NuGet.Config"
