@@ -1,0 +1,14 @@
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.AssemblyInfoInputs.cache
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.AssemblyInfo.cs
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.csproj.CoreCompileInputs.cache
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\bin\Debug\net7.0\source.exe
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\bin\Debug\net7.0\source.deps.json
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\bin\Debug\net7.0\source.runtimeconfig.json
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\bin\Debug\net7.0\source.dll
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\bin\Debug\net7.0\source.pdb
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.dll
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\refint\source.dll
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.pdb
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\source.genruntimeconfig.cache
+C:\Users\shali\OneDrive - The University of Alabama\MIS321\source\repos\strategypatternGamePA5\source\obj\Debug\net7.0\ref\source.dll
